@@ -51,6 +51,7 @@
     <Compile Include="Homework\Letter.cs" />
     <Compile Include="Homework\LetterBuilder.cs" />
     <Compile Include="Homework\LetterBuilderState.cs" />
+    <Compile Include="Homework\LetterExtensions.cs" />
     <Compile Include="StateBuilders\Enums\SideDishType.cs" />
     <Compile Include="StateBuilders\Enums\EntreeType.cs" />
     <Compile Include="StateBuilders\FormalLunchBuilder.cs" />

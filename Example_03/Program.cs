@@ -25,7 +25,7 @@ namespace Example_03
                 .SetBody("Hello. I wish to pass exams for new year. Thanks")
                 .SetTopic("New year's desire")
                 .Build();
-            Console.WriteLine(letter.ToString());
+            Console.WriteLine(letter.GetFull());
 
             Console.WriteLine();
             Console.ReadLine();
